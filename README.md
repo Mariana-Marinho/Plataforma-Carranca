@@ -1,45 +1,92 @@
-# Plataforma-Carranca
+# Plataforma UniMail
 
-Este projeto é uma plataforma de consulta para eventos pagos e gratuitos que ocorrerão na cidade do Recife, utilizando a API do Sympla.
+O projeto visa criar uma plataforma inovadora para organizar e gerenciar eficientemente as entradas de email na universidade, inicialmente focada no Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
+- [Início Rápido](#inicio-rapido)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
+- [Documentação](#documentacao)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [Licença](#licenca)
+- [Autores](#autores)
+- [FAQ](#faq)
+- [Estado do Projeto](#estado-do-projeto)
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo facilitar o acesso às informações de eventos que acontecerão na cidade do Recife. A plataforma permite que os usuários consultem eventos tanto pagos quanto gratuitos, fornecendo detalhes como data, local e descrição.
+Atualmente, o fluxo de emails no ambiente acadêmico é intenso e desorganizado. Estudantes, professores e funcionários do CIn da UFPE recebem uma quantidade massiva de emails diariamente, que variam desde avisos importantes e oportunidades acadêmicas até notificações de eventos e mensagens de "achados e perdidos". Esse cenário causa uma grande sobrecarga de informações, perda de oportunidades, e prioridades misturadas.
 
-## Funcionalidades
+## Início Rápido
 
-- Consulta de eventos pagos e gratuitos.
-- Filtro por data, categoria e local.
-- Exibição de detalhes do evento, incluindo descrição, data, horário e local.
-- Interface amigável e responsiva.
+...
+
+### Pré-requisitos
+
+...
+
+### Instalação
+
+...
 
 ## Tecnologias Utilizadas
 
-- 
-
-## Pré-requisitos
-
--
+...
 
 ## Como usar
 
--
+...
+
+### Funcionalidades
+
+...
+
+## Documentação
+
+...
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autores
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/131917608?v=4" width="100px;" alt="Alberis"/><br />
+      <b>Alberis Silva</b><br />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/131917694?v=4" width="100px;" alt="Aldo Lemos"/><br />
+      <b>Aldo Lemos</b><br />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/106412379?v=4" width="100px;" alt="Arlen"/><br />
+      <b>Arlen Filho</b><br />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/121072900?v=4" width="100px;" alt="Gustavo Diego"/><br />
+      <b>Gustavo Diego</b><br />
+       <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/131627751?v=4" width="100px;" alt="Hyan"/><br />
+      <b>Hyan Lucas</b><br />
+    </td>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/83255127?v=4" width="100px;" alt="Mariana Marinho"/><br />
+      <b>Mariana Marinho</b><br />
+    </td>
+  </tr>
+</table>
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-- 
+...
+
+## FAQ
+
+...
+
+## Estado do Projeto
+
+Este projeto está em desenvolvimento ativo. Você pode esperar mudanças frequentes e atualizações.
