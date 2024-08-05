@@ -46,7 +46,7 @@ Atualmente, o fluxo de emails no ambiente acadêmico é intenso e desorganizado.
 
 ## Documentação
 
-...
+[Clique aqui](https://github.com/4RL3N/Projeto-if977-Eng.Software/tree/main/Documenta%C3%A7%C3%A3o) para conferir a documentação do projeto.
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
